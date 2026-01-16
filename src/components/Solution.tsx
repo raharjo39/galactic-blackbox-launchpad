@@ -8,42 +8,42 @@ const Solution = () => {
       number: "01",
       icon: Satellite,
       title: "Starlink Integration",
-      description: "Konektivitas satelit always-on yang memastikan operasi Anda tetap terlihat dari mana saja di dunia.",
+      description: "Always-on satellite connectivity ensuring your operations remain visible from anywhere in the world.",
       features: ["Real-time Connectivity", "Global Coverage", "Low Latency", "Automatic Failover"]
     },
     {
       number: "02",
       icon: Cloud,
       title: "Cloud-Based Storage",
-      description: "Penyimpanan cloud yang aman memastikan setiap detik rekaman tersimpan dan dapat diakses kapan saja.",
+      description: "Secure cloud storage ensures every second of footage is preserved and accessible anytime.",
       features: ["Automatic Backup", "Secure Encryption", "Easy Access", "Long-term Archive"]
     },
     {
       number: "03",
       icon: Shield,
       title: "AI-Driven Surveillance",
-      description: "Deteksi cerdas dan alert otomatis yang didukung oleh machine learning canggih.",
+      description: "Smart detection and automated alerts powered by advanced machine learning.",
       features: ["Anomaly Detection", "Smart Alerts", "Pattern Recognition", "Predictive Analysis"]
     },
     {
       number: "04",
       icon: Zap,
       title: "SD-WAN Technology",
-      description: "Teknologi networking canggih yang memastikan bandwidth optimal dan perlindungan failover.",
+      description: "Advanced networking technology ensuring optimal bandwidth and failover protection.",
       features: ["Bandwidth Optimization", "Traffic Management", "Redundancy", "QoS Control"]
     },
     {
       number: "05",
       icon: Globe,
       title: "Fleet Management",
-      description: "Pantau seluruh armada Anda dari mana saja dengan dashboard real-time yang komprehensif.",
+      description: "Monitor your entire fleet from anywhere with comprehensive real-time dashboards.",
       features: ["Centralized Dashboard", "Multi-vessel View", "Historical Data", "Custom Reports"]
     },
     {
       number: "06",
       icon: Lock,
       title: "Enterprise Security",
-      description: "Enkripsi tingkat perbankan dan kepatuhan terhadap standar maritim internasional.",
+      description: "Bank-grade encryption and compliance with international maritime standards.",
       features: ["End-to-end Encryption", "Compliance Ready", "Access Control", "Audit Logs"]
     }
   ];

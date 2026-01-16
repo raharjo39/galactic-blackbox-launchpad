@@ -16,15 +16,15 @@ const Problem = () => {
           </h2>
           
           <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-            <strong className="text-foreground">Galactic BlackBox™</strong> adalah platform pemantauan dan surveilans kapal jarak jauh yang dirancang untuk memastikan operasi maritim Anda selalu terlihat dan terdokumentasi dengan baik.
+            <strong className="text-foreground">Galactic BlackBox™</strong> is a remote vessel monitoring and surveillance platform designed to ensure your maritime operations remain visible and well-documented at all times.
           </p>
           
           <p className="text-muted-foreground text-lg leading-relaxed mb-8">
-            Galactic BlackBox mengintegrasikan data video, operasional, dan telemetri ke dalam satu tampilan terpadu untuk mendukung pemantauan real-time, deteksi dini kejadian, serta dokumentasi lengkap untuk kebutuhan audit dan keamanan.
+            Galactic BlackBox integrates video, operational, and telemetry data into a unified view to support real-time monitoring, early event detection, and complete documentation for audit and security needs.
           </p>
 
           <p className="text-muted-foreground leading-relaxed">
-            Dirancang dengan prinsip <strong className="text-foreground">sederhana, handal, dan selalu aktif</strong>, Galactic BlackBox membantu manajemen mengambil keputusan berbasis data tanpa menambah kompleksitas operasional.
+            Designed with the principles of <strong className="text-foreground">simplicity, reliability, and always-on operation</strong>, Galactic BlackBox helps management make data-driven decisions without adding operational complexity.
           </p>
           
           {/* Feature Pills */}
